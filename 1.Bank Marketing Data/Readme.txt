@@ -13,4 +13,4 @@ Dataset is from "Moro,S., Rita,P., and Cortez,P.. (2012). Bank Marketing. UCI Ma
 9. Create the first project under it using the information from the Dataset. 
 10. In the Readme section of the project, cite the dataset (as shown above) and reuse the description from the dataset. At the bottom of it, if you find something interesting or appropriate, add your own description to enrich it.
 
-As an outcome of conducting the above project, just share the Github link for review and feedback.
+As an outcome of conducting the above project, just share your Github link which contains the description as above, your output presentation or pdf and code for review and feedback.
