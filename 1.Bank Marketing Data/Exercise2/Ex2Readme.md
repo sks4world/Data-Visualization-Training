@@ -19,4 +19,8 @@ Exercise Tasks:
 2. Create a presentation or pdf file with the following visualizations of the dataset
 3. Read the dataset 'bank.csv'
 4. Manager of the Bank has the following questions. Create visual graphs with title, x-axis, y-axis labels, with interpretation comments to help answer the questions of the manager as below.
-4a. Question 1: What is the average age of the 
+4a. Question 1: What is the average age of the customers grouped by marital status who were contacted by the marketing team? Show average age as bar-graphs for each marital status. Interpret the graph in your own words.
+4b. Question 2: What is the mean, median and mode of the customers grouped by education? Show one box plot per education category and interpret it.
+4c. Question 3: Which age bracket has highest number of customers in the contacted list? Show a histogram of the age with buckets chosen appropriately. Interpret the graph.
+5. Prepare a power point presentation output document with the above details, your output graphs with interpretations. Imagine you were going to present this to your business counterpart and walk through the graphs with your interpretations.
+6. Submit your output in your Github link and share the link for review
