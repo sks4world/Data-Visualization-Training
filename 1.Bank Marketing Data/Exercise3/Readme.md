@@ -23,4 +23,4 @@ Exercise Tasks:
 7. Two pie charts showing the distribtion of 'contact' for successful subscriptions and distribution of 'contact' for subscribed 'No'
 8. A bar chart showing the number of subscriptions yes and no by day of the week (if a day is absent in dataset, impute 0)
 9. Title the dashboard
-10. Write a summary about the dashboard and present the dashboard in a powerpoint presentation, assuming, this is presented to a business manager for decision making
+10. Write a summary about the dashboard and present the dashboard in a powerpoint presentation, assuming, this is presented to a business manager for decision making. Upload the output in the github and share the github link
